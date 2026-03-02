@@ -13,6 +13,30 @@
 					"name": "token",
 					"item": [
 						{
+							"name": "New Folder",
+							"item": [
+								{
+									"name": "New Folder",
+									"item": [
+										{
+											"name": "New Request",
+											"id": "86039af3-fbb9-49d8-8ecf-f1eafeddae01",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"method": "GET",
+												"header": []
+											},
+											"response": []
+										}
+									],
+									"id": "847346ac-d2e0-4ab0-81b0-b5f410040470"
+								}
+							],
+							"id": "253bb242-5352-48c8-9b57-cf1b5d30807e"
+						},
+						{
 							"name": "/connect/token",
 							"id": "5e4f685e-e84f-46a5-9d11-5f9aa1a8e39d",
 							"protocolProfileBehavior": {
