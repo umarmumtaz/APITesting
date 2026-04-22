@@ -62,7 +62,7 @@
 								],
 								"body": {
 									"mode": "raw",
-									"raw": "// {\n//   \"clientId\": \"ats.client.user.voyagecare\",\n//   \"clientSecret\": \"GWNer3iCxw3IcAeLf03x82/n0jc=\",\n//  // \"username\": \"voyage\",\n//     \"username\": \"superuser\",\n//   \"password\": \"pchX9%A>KT6imGbk&=GZWv<-s\"\n// }\n\n\n{\n    //partnertest\n  \"clientId\": \"ats.client.user.partnertest\",\n   \"clientSecret\": \"FCsc7zfDM3ncYHVJKUts8xsqfKU=\",\n    \"username\": \"arcticshores.apiUser\",\n   \"password\": \"jK_~ywNnpRWFGCavExFi;h2fT\"\n}",
+									"raw": "{\n  \"clientId\": \"ats.client.user.voyagecare\",\n  \"clientSecret\": \"GWNer3iCxw3IcAeLf03x82/n0jc=\",\n // \"username\": \"voyage\",\n    \"username\": \"nanncy\",\n  \"password\": \"0CVC^3O5kLCuA<VAG<V=bP~52\"\n}\n\n\n// {\n//     //partnertest\n//   \"clientId\": \"ats.client.user.partnertest\",\n//    \"clientSecret\": \"FCsc7zfDM3ncYHVJKUts8xsqfKU=\",\n//     \"username\": \"arcticshores.apiUser\",\n//    \"password\": \"jK_~ywNnpRWFGCavExFi;h2fT\"\n// }",
 									"options": {
 										"raw": {
 											"headerFamily": "json",
